@@ -13,3 +13,5 @@ Content
 *.opendb
 *.opensdf
 *.VC.db
+*.vsconfig
+.vsconfig
