@@ -1,0 +1,15 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
+Content
+**/StarterContent
+**/Assets
+
+.vscode
+.vs
+*.sln
+*.opendb
+*.opensdf
+*.VC.db
