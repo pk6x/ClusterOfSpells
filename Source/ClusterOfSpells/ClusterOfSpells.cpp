@@ -3,4 +3,4 @@
 #include "ClusterOfSpells.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, ClusterOfSpells, "ClusterOfSpells" );
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, ClusterOfSpells, "ClusterOfSpells");
